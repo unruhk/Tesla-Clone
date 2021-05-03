@@ -5,7 +5,7 @@
 ![Model X](/assets/screens/ModelX.jpg?raw=true "Model X")
 ![Model Y](/assets/screens/ModelY.jpg?raw=true "Model Y")
 
-## [Live Web Demo](https://kunruh.de)
+## [Live Web Demo](https://klunruh-tesla-clone.netlify.app/)
 Check out the build on the web.
 
 ## [Live Demo with Expo App](https://expo.io/@klunruh/projects/Tesla-Clone)
